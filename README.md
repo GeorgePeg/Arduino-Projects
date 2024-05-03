@@ -115,6 +115,7 @@ have a low power consumption.
 
 
 **What is the PWM?**
+
 **PWM (Pulse Width Modulation Signal)** is a periodic waveform consisting of two segments. The **ON Segment** , also known as **Duty Cycle**, is measured either in units of time or as a percentage over the period
 and in this section our waveform has its maximum value. The **OFF Segment** is the segment in which our waveform has the value of zero. By applying a PWM waveform to the power supply of a load, we are given the ability
 to control the percentage of power that ''falls'' onto the load. For example, if our load is a motor,then we can check its RPM (revolutions per minute).
